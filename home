@@ -134,24 +134,33 @@
         <div class="nye">
             <a href="#">Get NYE 2024<br>Reservations HERE</a>
         </div>
-        
+
+<!-- populate gift card URL -->
+
         <div class="giftcards">
             <a href="#">PURCHASE GIFTCARDS</a>
         </div>
+
+<!-- Change email -->
         
         <div class="email">
             Email <a href="mailto:oybarmanager@gmail.com">oybarmanager@gmail.com</a>
         </div>
-        
+
+<!-- populate sample menu url -->
+
         <div class="menu">
             <a href="#">VIEW RECENT SAMPLE MENU</a>
         </div>
-        
+
+ <!-- edit & add link to Resy -->
+       
         <div class="info">
             OyBar is "walk-in only"<br>
             For parties of 6 or more, a limited number of reservations<br>
             are available and recommended. Please contact OyBarManager@gmail.com
         </div>
+
         
         <div class="note">
             Note: OyBar is a small, vintage space with limited seating. We make every effort to create the best-possible experience for all of our guests.
