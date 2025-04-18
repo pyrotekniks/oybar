@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OyBar by Jeff's Table</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            color: #d4c6b0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            width: 100%;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        
+        .address {
+            text-align: left;
+            line-height: 1.5;
+        }
+        
+        .hours {
+            text-align: right;
+            line-height: 1.5;
+        }
+        
+        .logo {
+            font-size: 100px;
+            font-family: 'Times New Roman', Times, serif;
+            color: white;
+            margin: 20px 0 5px;
+        }
+        
+        .byline {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        
+        .social-icon {
+            font-size: 24px;
+            color: white;
+            text-decoration: none;
+        }
+        
+        .nye {
+            color: #e6c200;
+            font-size: 20px;
+            margin: 20px 0;
+        }
+        
+        .nye a {
+            color: #e6c200;
+            text-decoration: none;
+        }
+        
+        .giftcards {
+            color: #e05c97;
+            margin: 15px 0;
+        }
+        
+        .giftcards a {
+            color: #e05c97;
+            text-decoration: none;
+        }
+        
+        .email {
+            margin: 15px 0;
+        }
+        
+        .email a {
+            color: #d4c6b0;
+            text-decoration: none;
+        }
+        
+        .menu {
+            margin: 15px 0;
+        }
+        
+        .menu a {
+            color: #d4c6b0;
+            text-decoration: none;
+        }
+        
+        .info {
+            margin: 15px auto;
+            max-width: 800px;
+            line-height: 1.6;
+        }
+        
+        .note {
+            margin: 30px auto;
+            max-width: 1000px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="address">
+                12446 Moorpark St,<br>
+                Studio City, CA 91604<br><br>
+                <a href="https://www.instagram.com/oybarla/" class="social-icon">&#9634;</a>
+            </div>
+            <div class="hours">
+                Tuesday - Saturday<br>
+                Kitchen 5pm-10pm<br>
+                Bar 5pm - 11pm
+            </div>
+        </div>
+        
+        <h1 class="logo">OyBar</h1>
+        <div class="byline">by Jeff's Table</div>
+        
+        <div class="nye">
+            <a href="#">Get NYE 2024<br>Reservations HERE</a>
+        </div>
+        
+        <div class="giftcards">
+            <a href="#">PURCHASE GIFTCARDS</a>
+        </div>
+        
+        <div class="email">
+            Email <a href="mailto:oybarmanager@gmail.com">oybarmanager@gmail.com</a>
+        </div>
+        
+        <div class="menu">
+            <a href="#">VIEW RECENT SAMPLE MENU</a>
+        </div>
+        
+        <div class="info">
+            OyBar is "walk-in only"<br>
+            For parties of 6 or more, a limited number of reservations<br>
+            are available and recommended. Please contact OyBarManager@gmail.com
+        </div>
+        
+        <div class="note">
+            Note: OyBar is a small, vintage space with limited seating. We make every effort to create the best-possible experience for all of our guests.
+            Even when tables are open, it is our practice to only seat complete parties. Please anticipate that your dining time at a table or the bar may be
+            limited to 90 minutes when others are waiting to be seated. 21+ valid proof of age required
+        </div>
+    </div>
+</body>
+</html>
